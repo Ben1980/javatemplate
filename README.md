@@ -1,7 +1,7 @@
 # javatemplate
 > A java GitHub template project.
 
-[![CircleCI][circleci-badge]][circleci-url]
+[![Java CI with Gradle][workflow-badge-url]][workflow-url]
 [![CodeFactor Grade][codefactor-badge]][codefactor-url]
 [![Documentation][documentation-badge]][documentation-url]
 [![License][license-badge]][license-url]
@@ -44,11 +44,11 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 - README.md template inspiration – https://github.com/dbader/readme-template
 - gh-pages GitHub-Action – https://github.com/peaceiris/actions-gh-pages
 
-[circleci-url]: https://circleci.com/gh/Ben1980/javatemplate
+[workflow-badge-url]: https://github.com/Ben1980/javatemplate/workflows/Java%20CI%20with%20Gradle/badge.svg
+[workflow-url]: https://github.com/Ben1980/javatemplate/actions?query=workflow%3A%22Java+CI+with+Gradle%22
 [codefactor-url]: https://www.codefactor.io/repository/github/ben1980/javatemplate
 [documentation-url]: https://ben1980.github.io/javatemplate/
 [license-url]: https://github.com/Ben1980/javatemplate/blob/master/LICENSE
-[circleci-badge]: https://img.shields.io/circleci/build/gh/Ben1980/javatemplate
 [codefactor-badge]: https://img.shields.io/codefactor/grade/github/ben1980/javatemplate
 [documentation-badge]: https://img.shields.io/github/workflow/status/Ben1980/javatemplate/Documentation?label=Documentation
 [license-badge]: https://img.shields.io/github/license/Ben1980/javatemplate
